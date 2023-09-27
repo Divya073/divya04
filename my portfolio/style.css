@@ -1,0 +1,47 @@
+body{
+    background-image:url(5651980.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 1;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#192E51;
+    }
+ 
+.menu{
+    display: flex;
+    text-align: right;
+    align-items:center;
+    color:white;
+    padding-left:45%;
+    font-size:20px;
+ }
+ h1{
+    text-align: center;
+    font-size: 400%;
+    color:#123;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 17%;
+ }
+ h6{
+    text-align: center;
+    font-size: 150%;
+    color: #123;
+ }
+ 
+ a:link {
+    color:seashell;
+}
+
+a:visited {
+   color:snow;
+}
